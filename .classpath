@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.text_3.7.0.v20180822-1511.jar" sourcepath="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.text_3.7.0.v20180822-1511.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.108.0.v20180904-1901.jar" sourcepath="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.108.0.v20180904-1901.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.jface_3.14.100.v20180828-0836.jar" sourcepath="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.jface_3.14.100.v20180828-0836.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.jface.text_3.14.0.v20180824-1140.jar" sourcepath="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.jface.text_3.14.0.v20180824-1140.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.ui.workbench_3.112.0.v20180906-1121.jar" sourcepath="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.ui.workbench_3.112.0.v20180906-1121.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.ui.forms_3.7.300.v20180828-1350.jar" sourcepath="C:/Users/mrTom/.p2/pool/plugins/org.eclipse.ui.forms_3.7.300.v20180828-1350.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mrTom/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
